@@ -1,6 +1,3 @@
-
-
-
 --delivery_prices
 INSERT INTO delivery_prices VALUES(1, 20, 'Romania');
 INSERT INTO delivery_prices VALUES(2, 50, 'Europe UE');
