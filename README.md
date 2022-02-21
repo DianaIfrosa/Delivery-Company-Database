@@ -1,2 +1,3 @@
 # Firma-de-curierat--SGBD
-O baza de date pentru managementul unei firme de curierat (SQL) + exemple de utilizare (PL/SQL : procedures, triggers, packages etc.)
+Database created in Oracle using SQL in order to simplify the administration of a delivery company. The
+project includes examples of real-life situations solved in PL/SQL (procedures, triggers, packages etc.)
